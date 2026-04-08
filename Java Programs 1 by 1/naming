@@ -1,0 +1,12 @@
+//Naming Convention
+
+in class/Interface- a class name should tart with a Capital Letter-Calc, Runable
+
+in Variable/Method - name should start with small letter
+
+constant - name should be all CAPITAL LETTERS- PIE,Brand
+
+two letter combination-first smallword then capital word-showMyMarks, showAge(camel casing)
+
+in constructor - First letter should be capital Human()
+
